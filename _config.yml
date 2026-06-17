@@ -53,7 +53,7 @@ location:
   - line: Austin Metropolitan Area
 
 # Credits content
-credits: 'Built using the Freelancer Bootstrap theme and customized by Derryk Whitner.</a>.'
+credits: 'Built using the Freelancer Bootstrap theme and customized by Derryk Whitner.</a>'
 
 # Build settings
 markdown: kramdown
